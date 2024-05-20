@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @lucazalves0
+- 🎓 I have a degree in computer science and a postgraduate degree in solutions architecture
 - 👀 I’m interested in Software development, IA, Software architecture and anything else about tecnology
 - 🌱 I’m currently learning Software architecture, team organization and team building
 - 💞️ I’m looking to collaborate on Grupo Boticario B2B team
